@@ -10,7 +10,6 @@ http://www.springframework.org/schema/context https://www.springframework.org/sc
 
     <mvc:annotation-driven/>
 
-    <mvc:resources mapping="/resources" location="/resources/"/>
 
     <beans:bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <beans:property name="prefix" value="/WEB-INF/views/"/>
