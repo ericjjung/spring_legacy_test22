@@ -78,8 +78,8 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-aspects:5.2.10.RELEASE" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.22" />
           <element id="library" level="project" name="Maven: org.aspectj:aspectjrt:1.6.10" />
-          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.6" />
-          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.6.6" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.16" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.16" />
           <element id="library" level="project" name="Maven: javax.inject:javax.inject:1" />
           <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
           <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.18.24" />
